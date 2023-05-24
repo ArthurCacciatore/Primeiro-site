@@ -1,0 +1,1 @@
+Fiz esse projeto como meu primeiro site utilizando java css e html peguei a ideia e os códigos de um canal chamado ASMR Programming. O objetivo era entender as funcionalidades apresentadas para poder utilizar em projetos futuros.
